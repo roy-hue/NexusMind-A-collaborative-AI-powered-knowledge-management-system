@@ -9,12 +9,14 @@ Shared Notes: Collaborate on knowledge with team members
 Real-time Updates: See edits as they happen
 Comments & Threads: Discuss ideas within notes
 Member Management: Add teammates by email
+
 2. Knowledge Capture
 
 File Upload: Process .docx, .json, .txt files
 Manual Entry: Create notes directly
 Source Tracking: Marks origin (Google Docs, ChatGPT, manual, etc.)
 Automatic Tagging: AI suggests relevant tags
+
 3. Three-Stage Pipeline System
 
 Primary Pipeline (Compression)
