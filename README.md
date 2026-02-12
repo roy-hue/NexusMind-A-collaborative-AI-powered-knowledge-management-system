@@ -27,6 +27,7 @@ Removes redundancy while preserving key facts
 
 Chunks large files for processing
 
+
 Secondary Pipeline (Evolution)
 
 Evolves compressed notes through stages: idea → concept → paradigm shift → understanding
@@ -34,6 +35,7 @@ Evolves compressed notes through stages: idea → concept → paradigm shift →
 Extracts WHO, WHAT, WHY metadata
 
 Creates Concept entities tracking evolution
+
 
 Tertiary Pipeline (Synthesis)
 
@@ -45,12 +47,14 @@ Creates synthesis that emerges only from multiple notes together
 
 Maps relationships between ideas
 
+
 4. Insights Engine
 
 Ask Questions: Query your collective knowledge base
 5W Analysis: Automatically extracts who, what, when, where, why
 Synthesis Generation: Connects disparate pieces to create new understanding
 Breakthrough Insights: AI identifies non-obvious patterns
+
 
 5. Knowledge Management
 
@@ -59,12 +63,18 @@ Tag Cloud: Visual navigation
 Note Editor: Edit with real-time collaboration
 Relationship Mapping: Tracks how notes connect (references, contradicts, supports, extends)
 
+
 6. Project Organization
 
 Color-coded Projects: Visual identification
+
 Project Dashboards: Metrics, activity charts, team engagement
+
 Health Scores: Track collaboration quality
+
 Activity Timelines: Visualize progress
+
+
 Technical Specifications
 
 Frontend: React, Tailwind CSS, TypeScript
@@ -76,6 +86,7 @@ AI Processing: LLM integration for compression, evolution, synthesis
 Real-time: Subscription-based updates
 
 Authentication: Built-in user management with roles (admin/user)
+
 
 User Flow
 
@@ -90,6 +101,7 @@ Synthesize in tertiary pipeline to answer who/what/when/where/why
 Ask questions in Insights to generate breakthrough understanding
 
 Collaborate with comments and shared editing
+
 
 Premium Features
 
