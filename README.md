@@ -62,8 +62,11 @@ D. Breakthrough Insights: AI identifies non-obvious patterns
 5. Knowledge Management
 
 A. Search & Filter: By pipeline stage, source type, tags, keywords
+
 B. Tag Cloud: Visual navigation
+
 C. Note Editor: Edit with real-time collaboration
+
 D. Relationship Mapping: Tracks how notes connect (references, contradicts, supports, extends)
 
 
